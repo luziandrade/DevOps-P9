@@ -5,7 +5,7 @@ on:
     types: [labeled]
 
 env:
-  DOCKER_IMAGE_NAME: luziandrade-azure-tictactoe
+  DOCKER_IMAGE_NAME: lfeitosa-az-tictactoe
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   AZURE_WEBAPP_NAME: luziandrade-ttt-app
 
